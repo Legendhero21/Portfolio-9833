@@ -5,13 +5,13 @@ import { Typography, Link } from "@mui/material";
 const Header = () => (
   <header>
     <Typography variant="h3" component="h1" gutterBottom>
-      Vedant Goraksha
+      Anugu Navin Reddy
     </Typography>
-    <Typography variant="body1">Phone: +91 7045033488</Typography>
-    <Typography variant="body1">Email: <Link href="mailto:gvedant2104@gmail.com">gvedant2104@gmail.com</Link></Typography>
+    <Typography variant="body1">Phone: +91 9321008271</Typography>
+    <Typography variant="body1">Email: <Link href="mailto:gvedant2104@gmail.com">crce.9815.ecs@gmail.com</Link></Typography>
     <Typography variant="body1">
       LinkedIn: <Link href="https://www.linkedin.com/in/vedant-goraksha/" target="_blank" rel="noopener noreferrer">
-        Vedant Goraksha
+        Anugu Navin Reddy
       </Link>
     </Typography>
   </header>
